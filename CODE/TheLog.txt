@@ -1,0 +1,1027 @@
+
+FILE STATUS > TheLog FILE opened
+FILE STATUS > RawData FILE opened
+CODE STATUS > Setup Started
+FILE STATUS > RawData FILE closed
+CODE STATUS > Setup Finished - 25 countries processed
+FILE STATUS > TransData FILE opened
+CODE STATUS > UserApp started
+SN China
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN CHINA
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN chinA
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN Chin
+   SORRY, invalid country name
+       >> 2 nodes visited
+SN China
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN China doll
+   SORRY, invalid country name
+       >> 4 nodes visited
+SN China=
+   SORRY, invalid country name
+       >> 4 nodes visited
+SN China
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN Wallis
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN Wallis and Futuna
+   WLF Wallis and Futuna  Oceania              200        15,000 -1.0
+       >> 6 nodes visited
+SN Wallis & Futuna
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN Australia
+   AUS Australia          Oceania        7,741,220    18,886,000 79.8
+       >> 2 nodes visited
+SN Zimbabwe
+   ZWE Zimbabwe           Africa           390,757    11,669,000 37.8
+       >> 4 nodes visited
+SN Jordan
+   JOR Jordan             Asia              88,946     5,083,000 77.4
+       >> 7 nodes visited
+SN Japan
+   SORRY, invalid country name
+       >> 8 nodes visited
+SN Liechtenstein
+   LIE Liechtenstein      Europe               160        32,300 78.8
+       >> 7 nodes visited
+SN London
+   SORRY, invalid country name
+       >> 8 nodes visited
+SN Albania
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN Western Michigan University
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN Zoo
+   SORRY, invalid country name
+       >> 5 nodes visited
+SN United
+   SORRY, invalid country name
+       >> 5 nodes visited
+SN (space) is < 0-9 (& so < A=Z)
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN # is < 0-9 (& so < A-Z)
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN = is > 0-9 & < A-Z
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN ] is > A-Z & < a-z
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN } is > a-z
+   SORRY, invalid country name
+       >> 5 nodes visited
+SA
+      CDE NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+      AUS Australia          Oceania        7,741,220    18,886,000 79.8
+
+      BRA Brazil             South America  8,547,403   170,115,000 62.9
+
+      CHN China              Asia           9,572,900 1,277,558,000 71.4
+
+      DOM Dominican Republic North America     48,511     8,495,000 73.2
+
+      EGY Egypt              Africa         1,001,449    68,470,000 63.3
+
+      FRA France             Europe           551,500    59,225,700 78.8
+
+      GRC Greece             Europe           131,626    10,545,700 78.4
+
+      HUN Hungary            Europe            93,030    10,043,200 71.4
+
+      IND India              Asia           3,287,263 1,013,662,000 62.5
+
+      JOR Jordan             Asia              88,946     5,083,000 77.4
+
+      KEN Kenya              Africa           580,367    30,080,000 48.0
+
+      LIE Liechtenstein      Europe               160        32,300 78.8
+
+      MEX Mexico             North America  1,958,201    98,881,000 71.5
+
+      NGA Nigeria            Africa           923,768   111,506,000 51.6
+
+      OMN Oman               Asia             309,500     2,542,000 71.8
+
+      PSE Palestine          Asia               6,257     3,101,000 71.4
+
+      QAT Qatar              Asia              11,000       599,000 72.4
+
+      RUS Russian Federation Europe        17,075,400   146,934,000 67.2
+
+      SWE Sweden             Europe           449,964     8,861,400 79.6
+
+      TUR Turkey             Asia             774,815    66,591,000 71.0
+
+      USA United States      North America  9,363,520   278,357,000 77.1
+
+      VEN Venezuela          South America    912,050    24,170,000 73.1
+
+      WLF Wallis and Futuna  Oceania              200        15,000 -1.0
+
+      YUG Yugoslavia         Europe           102,173    10,640,000 72.4
+
+      ZWE Zimbabwe           Africa           390,757    11,669,000 37.8
+
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CODE STATUS > UserApp finished – 27 transactions processed
+FILE STATUS > TransData FILE closed
+FILE STATUS > TransData FILE opened
+CODE STATUS > UserApp started
+SA
+      CDE NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+      AUS Australia          Oceania        7,741,220    18,886,000 79.8
+
+      BRA Brazil             South America  8,547,403   170,115,000 62.9
+
+      CHN China              Asia           9,572,900 1,277,558,000 71.4
+
+      DOM Dominican Republic North America     48,511     8,495,000 73.2
+
+      EGY Egypt              Africa         1,001,449    68,470,000 63.3
+
+      FRA France             Europe           551,500    59,225,700 78.8
+
+      GRC Greece             Europe           131,626    10,545,700 78.4
+
+      HUN Hungary            Europe            93,030    10,043,200 71.4
+
+      IND India              Asia           3,287,263 1,013,662,000 62.5
+
+      JOR Jordan             Asia              88,946     5,083,000 77.4
+
+      KEN Kenya              Africa           580,367    30,080,000 48.0
+
+      LIE Liechtenstein      Europe               160        32,300 78.8
+
+      MEX Mexico             North America  1,958,201    98,881,000 71.5
+
+      NGA Nigeria            Africa           923,768   111,506,000 51.6
+
+      OMN Oman               Asia             309,500     2,542,000 71.8
+
+      PSE Palestine          Asia               6,257     3,101,000 71.4
+
+      QAT Qatar              Asia              11,000       599,000 72.4
+
+      RUS Russian Federation Europe        17,075,400   146,934,000 67.2
+
+      SWE Sweden             Europe           449,964     8,861,400 79.6
+
+      TUR Turkey             Asia             774,815    66,591,000 71.0
+
+      USA United States      North America  9,363,520   278,357,000 77.1
+
+      VEN Venezuela          South America    912,050    24,170,000 73.1
+
+      WLF Wallis and Futuna  Oceania              200        15,000 -1.0
+
+      YUG Yugoslavia         Europe           102,173    10,640,000 72.4
+
+      ZWE Zimbabwe           Africa           390,757    11,669,000 37.8
+
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DN China
+      OK, country deleted
+SN China
+   SORRY, invalid country name
+       >> 4 nodes visited
+DN Australia
+   SORRY, invalid country name
+SN Australia
+   SORRY, invalid country name
+       >> 4 nodes visited
+DN United States
+      OK, country deleted
+DN Wallis
+   SORRY, invalid country name
+DN Mexico
+   SORRY, invalid country name
+DN Nigeria
+   SORRY, invalid country name
+DN China
+   SORRY, invalid country name
+DN Hungary
+      OK, country deleted
+DN Western
+   SORRY, invalid country name
+DN Australia
+   SORRY, invalid country name
+DN Australia
+   SORRY, invalid country name
+DN Argentina
+   SORRY, invalid country name
+DN Computer Science
+   SORRY, invalid country name
+DN 
+      OK, country deleted
+IN Argentina
+   ARG Argentina          South America      1,816    37,032,000  75.1 
+   OK, country inserted
+        >> 3 nodes visited
+IN Japan
+   JPN Japan              Asia                 660   126,714,000  80.7 
+   OK, country inserted
+        >> 1 nodes visited
+IN Jamaica
+   JAM Jamaica            North America      1,962     2,583,000  75.2 
+   OK, country inserted
+        >> 2 nodes visited
+IN Cuba
+   CUB Cuba               North America      1,902    11,201,000  76.2 
+   OK, country inserted
+        >> 3 nodes visited
+IN Austria
+   AUT Austria            Europe             1,918     8,091,800  77.7 
+   OK, country inserted
+        >> 4 nodes visited
+IN Azerbaijan
+   AZE Azerbaijan         Asia               1,991     7,734,000  62.9 
+   OK, country inserted
+        >> 4 nodes visited
+IN Botswana
+   BWA Botswana           Africa             1,966     1,622,000  39.3 
+   OK, country inserted
+        >> 4 nodes visited
+IN United Kingdom
+   GBR United Kingdom     Europe             1,066    59,623,400  77.7 
+   OK, country inserted
+        >> 1 nodes visited
+IN Canada
+   CAN Canada             North America      1,867    31,147,000  79.4 
+   OK, country inserted
+        >> 4 nodes visited
+IN Kazakstan
+   KAZ Kazakstan          Asia               1,991    16,223,000  63.2 
+   OK, country inserted
+        >> 2 nodes visited
+IN United States Minor Outlying Islands
+   UMI United States Mino Oceania                0             0  0.0 
+   OK, country inserted
+        >> 1 nodes visited
+SN Argentina
+   ARG Argentina          South America      1,816    37,032,000 75.1
+       >> 4 nodes visited
+SN Japan
+   JPN Japan              Asia                 660   126,714,000 80.7
+       >> 4 nodes visited
+SN Jamaica
+   JAM Jamaica            North America      1,962     2,583,000 75.2
+       >> 5 nodes visited
+SN Cuba
+   CUB Cuba               North America      1,902    11,201,000 76.2
+       >> 5 nodes visited
+SN Austria
+   AUT Austria            Europe             1,918     8,091,800 77.7
+       >> 6 nodes visited
+SN Azerbaijan
+   AZE Azerbaijan         Asia               1,991     7,734,000 62.9
+       >> 7 nodes visited
+SN Botswana
+   BWA Botswana           Africa             1,966     1,622,000 39.3
+       >> 8 nodes visited
+SN United Kingdom
+   GBR United Kingdom     Europe             1,066    59,623,400 77.7
+       >> 5 nodes visited
+SN Canada
+   CAN Canada             North America      1,867    31,147,000 79.4
+       >> 9 nodes visited
+SN Kazakstan
+   KAZ Kazakstan          Asia               1,991    16,223,000 63.2
+       >> 6 nodes visited
+SN United States Minor Outlying Islands
+   UMI United States Mino Oceania               -1            -1 -1.0
+       >> 6 nodes visited
+SN United States
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN United
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN A
+   SORRY, invalid country name
+       >> 5 nodes visited
+SN Apples
+   SORRY, invalid country name
+       >> 5 nodes visited
+SN Zorro
+   SORRY, invalid country name
+       >> 5 nodes visited
+DN Azerbaijan
+      OK, country deleted
+DN Argentina
+      OK, country deleted
+SA
+      CDE NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+      AUS Australia          Oceania        7,741,220    18,886,000 79.8
+
+      BRA Brazil             South America  8,547,403   170,115,000 62.9
+
+      XXX                                          -1            -1 -1.0
+
+      XXX                                          -1            -1 -1.0
+
+      AUT Austria            Europe             1,918     8,091,800 77.7
+
+      XXX                                          -1            -1 -1.0
+
+      BWA Botswana           Africa             1,966     1,622,000 39.3
+
+      CAN Canada             North America      1,867    31,147,000 79.4
+
+      CUB Cuba               North America      1,902    11,201,000 76.2
+
+      DOM Dominican Republic North America     48,511     8,495,000 73.2
+
+      EGY Egypt              Africa         1,001,449    68,470,000 63.3
+
+      FRA France             Europe           551,500    59,225,700 78.8
+
+      GRC Greece             Europe           131,626    10,545,700 78.4
+
+      XXX                                          -1            -1 -1.0
+
+      IND India              Asia           3,287,263 1,013,662,000 62.5
+
+      JOR Jordan             Asia              88,946     5,083,000 77.4
+
+      KEN Kenya              Africa           580,367    30,080,000 48.0
+
+      LIE Liechtenstein      Europe               160        32,300 78.8
+
+      MEX Mexico             North America  1,958,201    98,881,000 71.5
+
+      NGA Nigeria            Africa           923,768   111,506,000 51.6
+
+      OMN Oman               Asia             309,500     2,542,000 71.8
+
+      PSE Palestine          Asia               6,257     3,101,000 71.4
+
+      QAT Qatar              Asia              11,000       599,000 72.4
+
+      RUS Russian Federation Europe        17,075,400   146,934,000 67.2
+
+      SWE Sweden             Europe           449,964     8,861,400 79.6
+
+      TUR Turkey             Asia             774,815    66,591,000 71.0
+
+      XXX                                          -1            -1 -1.0
+
+      JAM Jamaica            North America      1,962     2,583,000 75.2
+
+      JPN Japan              Asia                 660   126,714,000 80.7
+
+      KAZ Kazakstan          Asia               1,991    16,223,000 63.2
+
+      GBR United Kingdom     Europe             1,066    59,623,400 77.7
+
+      UMI United States Mino Oceania               -1            -1 -1.0
+
+      VEN Venezuela          South America    912,050    24,170,000 73.1
+
+      WLF Wallis and Futuna  Oceania              200        15,000 -1.0
+
+      YUG Yugoslavia         Europe           102,173    10,640,000 72.4
+
+      ZWE Zimbabwe           Africa           390,757    11,669,000 37.8
+
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CODE STATUS > UserApp finished – 46 transactions processed
+FILE STATUS > TransData FILE closed
+FILE STATUS > TransData FILE opened
+CODE STATUS > UserApp started
+CODE STATUS > UserApp finished – 0 transactions processed
+FILE STATUS > TransData FILE closed
+N: 30, NextEmpty: 37, RootPtr: 000
+[SUB] CDE NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE LCh RCh
+[000] XXX                                          -1            -1 -1.0 003 001 
+
+[001] IND India              Asia           3,287,263 1,013,662,000 62.5 007 002 
+
+[002] XXX                                          -1            -1 -1.0 004 011 
+
+[003] BRA Brazil             South America  8,547,403   170,115,000 62.9 012 -01 
+
+[004] RUS Russian Federation Europe        17,075,400   146,934,000 67.2 005 008 
+
+[005] NGA Nigeria            Africa           923,768   111,506,000 51.6 006 020 
+
+[006] MEX Mexico             North America  1,958,201    98,881,000 71.5 010 -01 
+
+[007] EGY Egypt              Africa         1,001,449    68,470,000 63.3 018 009 
+
+[008] TUR Turkey             Asia             774,815    66,591,000 71.0 017 -01 
+
+[009] FRA France             Europe           551,500    59,225,700 78.8 -01 015 
+
+[010] KEN Kenya              Africa           580,367    30,080,000 48.0 019 023 
+
+[011] VEN Venezuela          South America    912,050    24,170,000 73.1 026 013 
+
+[012] AUS Australia          Oceania        7,741,220    18,886,000 79.8 -01 -01 
+
+[013] ZWE Zimbabwe           Africa           390,757    11,669,000 37.8 014 -01 
+
+[014] YUG Yugoslavia         Europe           102,173    10,640,000 72.4 024 -01 
+
+[015] GRC Greece             Europe           131,626    10,545,700 78.4 -01 016 
+
+[016] XXX                                          -1            -1 -1.0 -01 -01 
+
+[017] SWE Sweden             Europe           449,964     8,861,400 79.6 -01 -01 
+
+[018] DOM Dominican Republic North America     48,511     8,495,000 73.2 025 -01 
+
+[019] JOR Jordan             Asia              88,946     5,083,000 77.4 -01 -01 
+
+[020] PSE Palestine          Asia               6,257     3,101,000 71.4 021 022 
+
+[021] OMN Oman               Asia             309,500     2,542,000 71.8 -01 -01 
+
+[022] QAT Qatar              Asia              11,000       599,000 72.4 -01 -01 
+
+[023] LIE Liechtenstein      Europe               160        32,300 78.8 -01 -01 
+
+[024] WLF Wallis and Futuna  Oceania              200        15,000 -1.0 -01 -01 
+
+[025] XXX                                          -1            -1 -1.0 -01 028 
+
+[026] JPN Japan              Asia                 660   126,714,000 80.7 027 032 
+
+[027] JAM Jamaica            North America      1,962     2,583,000 75.2 -01 -01 
+
+[028] CUB Cuba               North America      1,902    11,201,000 76.2 029 -01 
+
+[029] AUT Austria            Europe             1,918     8,091,800 77.7 -01 030 
+
+[030] XXX                                          -1            -1 -1.0 -01 031 
+
+[031] BWA Botswana           Africa             1,966     1,622,000 39.3 -01 033 
+
+[032] GBR United Kingdom     Europe             1,066    59,623,400 77.7 034 035 
+
+[033] CAN Canada             North America      1,867    31,147,000 79.4 -01 -01 
+
+[034] KAZ Kazakstan          Asia               1,991    16,223,000 63.2 -01 -01 
+
+[035] UMI United States Mino Oceania               -1            -1 -1.0 -01 -01 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CODE STATUS > CountryDataTable Finished
+FILE STATUS > RawData FILE opened
+CODE STATUS > Setup Started
+FILE STATUS > RawData FILE closed
+CODE STATUS > Setup Finished - 269 countries processed
+FILE STATUS > TransData FILE opened
+CODE STATUS > UserApp started
+SN United States Minor Outlying Islands
+   UMI United States Mino Oceania               -1            -1 -1.0
+       >> 6 nodes visited
+SN Afghanistan
+   AFG Afghanistan        Asia             652,090    22,720,000 45.9
+       >> 7 nodes visited
+SN United States
+   USA United States      North America  9,363,520   278,357,000 77.1
+       >> 8 nodes visited
+SN China
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 14 nodes visited
+SN Vatican
+   SORRY, invalid country name
+       >> 10 nodes visited
+SN Monaco
+   MCO Monaco             Europe                 1        34,000 78.8
+       >> 34 nodes visited
+SN French Southern territories
+   ATF French Southern te Antarctica         7,780            -1 -1.0
+       >> 9 nodes visited
+CODE STATUS > UserApp finished – 7 transactions processed
+FILE STATUS > TransData FILE closed
+CODE STATUS > CountryDataTable Finished
+FILE STATUS > TheLog FILE closed
+FILE STATUS > TheLog FILE opened
+FILE STATUS > RawData FILE opened
+CODE STATUS > Setup Started
+FILE STATUS > RawData FILE closed
+CODE STATUS > Setup Finished - 25 countries processed
+FILE STATUS > TransData FILE opened
+CODE STATUS > UserApp started
+SN China
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN CHINA
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN chinA
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN Chin
+   SORRY, invalid country name
+       >> 2 nodes visited
+SN China
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN China doll
+   SORRY, invalid country name
+       >> 4 nodes visited
+SN China=
+   SORRY, invalid country name
+       >> 4 nodes visited
+SN China
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 0 nodes visited
+SN Wallis
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN Wallis and Futuna
+   WLF Wallis and Futuna  Oceania              200        15,000 -1.0
+       >> 6 nodes visited
+SN Wallis & Futuna
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN Australia
+   AUS Australia          Oceania        7,741,220    18,886,000 79.8
+       >> 2 nodes visited
+SN Zimbabwe
+   ZWE Zimbabwe           Africa           390,757    11,669,000 37.8
+       >> 4 nodes visited
+SN Jordan
+   JOR Jordan             Asia              88,946     5,083,000 77.4
+       >> 7 nodes visited
+SN Japan
+   SORRY, invalid country name
+       >> 8 nodes visited
+SN Liechtenstein
+   LIE Liechtenstein      Europe               160        32,300 78.8
+       >> 7 nodes visited
+SN London
+   SORRY, invalid country name
+       >> 8 nodes visited
+SN Albania
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN Western Michigan University
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN Zoo
+   SORRY, invalid country name
+       >> 5 nodes visited
+SN United
+   SORRY, invalid country name
+       >> 5 nodes visited
+SN (space) is < 0-9 (& so < A=Z)
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN # is < 0-9 (& so < A-Z)
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN = is > 0-9 & < A-Z
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN ] is > A-Z & < a-z
+   SORRY, invalid country name
+       >> 3 nodes visited
+SN } is > a-z
+   SORRY, invalid country name
+       >> 5 nodes visited
+SA
+      CDE NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+      AUS Australia          Oceania        7,741,220    18,886,000 79.8
+
+      BRA Brazil             South America  8,547,403   170,115,000 62.9
+
+      CHN China              Asia           9,572,900 1,277,558,000 71.4
+
+      DOM Dominican Republic North America     48,511     8,495,000 73.2
+
+      EGY Egypt              Africa         1,001,449    68,470,000 63.3
+
+      FRA France             Europe           551,500    59,225,700 78.8
+
+      GRC Greece             Europe           131,626    10,545,700 78.4
+
+      HUN Hungary            Europe            93,030    10,043,200 71.4
+
+      IND India              Asia           3,287,263 1,013,662,000 62.5
+
+      JOR Jordan             Asia              88,946     5,083,000 77.4
+
+      KEN Kenya              Africa           580,367    30,080,000 48.0
+
+      LIE Liechtenstein      Europe               160        32,300 78.8
+
+      MEX Mexico             North America  1,958,201    98,881,000 71.5
+
+      NGA Nigeria            Africa           923,768   111,506,000 51.6
+
+      OMN Oman               Asia             309,500     2,542,000 71.8
+
+      PSE Palestine          Asia               6,257     3,101,000 71.4
+
+      QAT Qatar              Asia              11,000       599,000 72.4
+
+      RUS Russian Federation Europe        17,075,400   146,934,000 67.2
+
+      SWE Sweden             Europe           449,964     8,861,400 79.6
+
+      TUR Turkey             Asia             774,815    66,591,000 71.0
+
+      USA United States      North America  9,363,520   278,357,000 77.1
+
+      VEN Venezuela          South America    912,050    24,170,000 73.1
+
+      WLF Wallis and Futuna  Oceania              200        15,000 -1.0
+
+      YUG Yugoslavia         Europe           102,173    10,640,000 72.4
+
+      ZWE Zimbabwe           Africa           390,757    11,669,000 37.8
+
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CODE STATUS > UserApp finished – 27 transactions processed
+FILE STATUS > TransData FILE closed
+FILE STATUS > TransData FILE opened
+CODE STATUS > UserApp started
+SA
+      CDE NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+      AUS Australia          Oceania        7,741,220    18,886,000 79.8
+
+      BRA Brazil             South America  8,547,403   170,115,000 62.9
+
+      CHN China              Asia           9,572,900 1,277,558,000 71.4
+
+      DOM Dominican Republic North America     48,511     8,495,000 73.2
+
+      EGY Egypt              Africa         1,001,449    68,470,000 63.3
+
+      FRA France             Europe           551,500    59,225,700 78.8
+
+      GRC Greece             Europe           131,626    10,545,700 78.4
+
+      HUN Hungary            Europe            93,030    10,043,200 71.4
+
+      IND India              Asia           3,287,263 1,013,662,000 62.5
+
+      JOR Jordan             Asia              88,946     5,083,000 77.4
+
+      KEN Kenya              Africa           580,367    30,080,000 48.0
+
+      LIE Liechtenstein      Europe               160        32,300 78.8
+
+      MEX Mexico             North America  1,958,201    98,881,000 71.5
+
+      NGA Nigeria            Africa           923,768   111,506,000 51.6
+
+      OMN Oman               Asia             309,500     2,542,000 71.8
+
+      PSE Palestine          Asia               6,257     3,101,000 71.4
+
+      QAT Qatar              Asia              11,000       599,000 72.4
+
+      RUS Russian Federation Europe        17,075,400   146,934,000 67.2
+
+      SWE Sweden             Europe           449,964     8,861,400 79.6
+
+      TUR Turkey             Asia             774,815    66,591,000 71.0
+
+      USA United States      North America  9,363,520   278,357,000 77.1
+
+      VEN Venezuela          South America    912,050    24,170,000 73.1
+
+      WLF Wallis and Futuna  Oceania              200        15,000 -1.0
+
+      YUG Yugoslavia         Europe           102,173    10,640,000 72.4
+
+      ZWE Zimbabwe           Africa           390,757    11,669,000 37.8
+
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DN China
+      OK, country deleted
+SN China
+   SORRY, invalid country name
+       >> 4 nodes visited
+DN Australia
+   SORRY, invalid country name
+SN Australia
+   SORRY, invalid country name
+       >> 4 nodes visited
+DN United States
+      OK, country deleted
+DN Wallis
+   SORRY, invalid country name
+DN Mexico
+   SORRY, invalid country name
+DN Nigeria
+   SORRY, invalid country name
+DN China
+   SORRY, invalid country name
+DN Hungary
+      OK, country deleted
+DN Western
+   SORRY, invalid country name
+DN Australia
+   SORRY, invalid country name
+DN Australia
+   SORRY, invalid country name
+DN Argentina
+   SORRY, invalid country name
+DN Computer Science
+   SORRY, invalid country name
+DN 
+      OK, country deleted
+IN Argentina
+   ARG Argentina          South America      1,816    37,032,000  75.1 
+   OK, country inserted
+        >> 3 nodes visited
+IN Japan
+   JPN Japan              Asia                 660   126,714,000  80.7 
+   OK, country inserted
+        >> 1 nodes visited
+IN Jamaica
+   JAM Jamaica            North America      1,962     2,583,000  75.2 
+   OK, country inserted
+        >> 2 nodes visited
+IN Cuba
+   CUB Cuba               North America      1,902    11,201,000  76.2 
+   OK, country inserted
+        >> 3 nodes visited
+IN Austria
+   AUT Austria            Europe             1,918     8,091,800  77.7 
+   OK, country inserted
+        >> 4 nodes visited
+IN Azerbaijan
+   AZE Azerbaijan         Asia               1,991     7,734,000  62.9 
+   OK, country inserted
+        >> 4 nodes visited
+IN Botswana
+   BWA Botswana           Africa             1,966     1,622,000  39.3 
+   OK, country inserted
+        >> 4 nodes visited
+IN United Kingdom
+   GBR United Kingdom     Europe             1,066    59,623,400  77.7 
+   OK, country inserted
+        >> 1 nodes visited
+IN Canada
+   CAN Canada             North America      1,867    31,147,000  79.4 
+   OK, country inserted
+        >> 4 nodes visited
+IN Kazakstan
+   KAZ Kazakstan          Asia               1,991    16,223,000  63.2 
+   OK, country inserted
+        >> 2 nodes visited
+IN United States Minor Outlying Islands
+   UMI United States Mino Oceania                0             0  0.0 
+   OK, country inserted
+        >> 1 nodes visited
+SN Argentina
+   ARG Argentina          South America      1,816    37,032,000 75.1
+       >> 4 nodes visited
+SN Japan
+   JPN Japan              Asia                 660   126,714,000 80.7
+       >> 4 nodes visited
+SN Jamaica
+   JAM Jamaica            North America      1,962     2,583,000 75.2
+       >> 5 nodes visited
+SN Cuba
+   CUB Cuba               North America      1,902    11,201,000 76.2
+       >> 5 nodes visited
+SN Austria
+   AUT Austria            Europe             1,918     8,091,800 77.7
+       >> 6 nodes visited
+SN Azerbaijan
+   AZE Azerbaijan         Asia               1,991     7,734,000 62.9
+       >> 7 nodes visited
+SN Botswana
+   BWA Botswana           Africa             1,966     1,622,000 39.3
+       >> 8 nodes visited
+SN United Kingdom
+   GBR United Kingdom     Europe             1,066    59,623,400 77.7
+       >> 5 nodes visited
+SN Canada
+   CAN Canada             North America      1,867    31,147,000 79.4
+       >> 9 nodes visited
+SN Kazakstan
+   KAZ Kazakstan          Asia               1,991    16,223,000 63.2
+       >> 6 nodes visited
+SN United States Minor Outlying Islands
+   UMI United States Mino Oceania               -1            -1 -1.0
+       >> 6 nodes visited
+SN United States
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN United
+   SORRY, invalid country name
+       >> 7 nodes visited
+SN A
+   SORRY, invalid country name
+       >> 5 nodes visited
+SN Apples
+   SORRY, invalid country name
+       >> 5 nodes visited
+SN Zorro
+   SORRY, invalid country name
+       >> 5 nodes visited
+DN Azerbaijan
+      OK, country deleted
+DN Argentina
+      OK, country deleted
+SA
+      CDE NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+      AUS Australia          Oceania        7,741,220    18,886,000 79.8
+
+      BRA Brazil             South America  8,547,403   170,115,000 62.9
+
+      XXX                                          -1            -1 -1.0
+
+      XXX                                          -1            -1 -1.0
+
+      AUT Austria            Europe             1,918     8,091,800 77.7
+
+      XXX                                          -1            -1 -1.0
+
+      BWA Botswana           Africa             1,966     1,622,000 39.3
+
+      CAN Canada             North America      1,867    31,147,000 79.4
+
+      CUB Cuba               North America      1,902    11,201,000 76.2
+
+      DOM Dominican Republic North America     48,511     8,495,000 73.2
+
+      EGY Egypt              Africa         1,001,449    68,470,000 63.3
+
+      FRA France             Europe           551,500    59,225,700 78.8
+
+      GRC Greece             Europe           131,626    10,545,700 78.4
+
+      XXX                                          -1            -1 -1.0
+
+      IND India              Asia           3,287,263 1,013,662,000 62.5
+
+      JOR Jordan             Asia              88,946     5,083,000 77.4
+
+      KEN Kenya              Africa           580,367    30,080,000 48.0
+
+      LIE Liechtenstein      Europe               160        32,300 78.8
+
+      MEX Mexico             North America  1,958,201    98,881,000 71.5
+
+      NGA Nigeria            Africa           923,768   111,506,000 51.6
+
+      OMN Oman               Asia             309,500     2,542,000 71.8
+
+      PSE Palestine          Asia               6,257     3,101,000 71.4
+
+      QAT Qatar              Asia              11,000       599,000 72.4
+
+      RUS Russian Federation Europe        17,075,400   146,934,000 67.2
+
+      SWE Sweden             Europe           449,964     8,861,400 79.6
+
+      TUR Turkey             Asia             774,815    66,591,000 71.0
+
+      XXX                                          -1            -1 -1.0
+
+      JAM Jamaica            North America      1,962     2,583,000 75.2
+
+      JPN Japan              Asia                 660   126,714,000 80.7
+
+      KAZ Kazakstan          Asia               1,991    16,223,000 63.2
+
+      GBR United Kingdom     Europe             1,066    59,623,400 77.7
+
+      UMI United States Mino Oceania               -1            -1 -1.0
+
+      VEN Venezuela          South America    912,050    24,170,000 73.1
+
+      WLF Wallis and Futuna  Oceania              200        15,000 -1.0
+
+      YUG Yugoslavia         Europe           102,173    10,640,000 72.4
+
+      ZWE Zimbabwe           Africa           390,757    11,669,000 37.8
+
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CODE STATUS > UserApp finished – 46 transactions processed
+FILE STATUS > TransData FILE closed
+FILE STATUS > TransData FILE opened
+CODE STATUS > UserApp started
+CODE STATUS > UserApp finished – 0 transactions processed
+FILE STATUS > TransData FILE closed
+N: 30, NextEmpty: 37, RootPtr: 000
+[SUB] CDE NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE LCh RCh
+[000] XXX                                          -1            -1 -1.0 003 001 
+
+[001] IND India              Asia           3,287,263 1,013,662,000 62.5 007 002 
+
+[002] XXX                                          -1            -1 -1.0 004 011 
+
+[003] BRA Brazil             South America  8,547,403   170,115,000 62.9 012 -01 
+
+[004] RUS Russian Federation Europe        17,075,400   146,934,000 67.2 005 008 
+
+[005] NGA Nigeria            Africa           923,768   111,506,000 51.6 006 020 
+
+[006] MEX Mexico             North America  1,958,201    98,881,000 71.5 010 -01 
+
+[007] EGY Egypt              Africa         1,001,449    68,470,000 63.3 018 009 
+
+[008] TUR Turkey             Asia             774,815    66,591,000 71.0 017 -01 
+
+[009] FRA France             Europe           551,500    59,225,700 78.8 -01 015 
+
+[010] KEN Kenya              Africa           580,367    30,080,000 48.0 019 023 
+
+[011] VEN Venezuela          South America    912,050    24,170,000 73.1 026 013 
+
+[012] AUS Australia          Oceania        7,741,220    18,886,000 79.8 -01 -01 
+
+[013] ZWE Zimbabwe           Africa           390,757    11,669,000 37.8 014 -01 
+
+[014] YUG Yugoslavia         Europe           102,173    10,640,000 72.4 024 -01 
+
+[015] GRC Greece             Europe           131,626    10,545,700 78.4 -01 016 
+
+[016] XXX                                          -1            -1 -1.0 -01 -01 
+
+[017] SWE Sweden             Europe           449,964     8,861,400 79.6 -01 -01 
+
+[018] DOM Dominican Republic North America     48,511     8,495,000 73.2 025 -01 
+
+[019] JOR Jordan             Asia              88,946     5,083,000 77.4 -01 -01 
+
+[020] PSE Palestine          Asia               6,257     3,101,000 71.4 021 022 
+
+[021] OMN Oman               Asia             309,500     2,542,000 71.8 -01 -01 
+
+[022] QAT Qatar              Asia              11,000       599,000 72.4 -01 -01 
+
+[023] LIE Liechtenstein      Europe               160        32,300 78.8 -01 -01 
+
+[024] WLF Wallis and Futuna  Oceania              200        15,000 -1.0 -01 -01 
+
+[025] XXX                                          -1            -1 -1.0 -01 028 
+
+[026] JPN Japan              Asia                 660   126,714,000 80.7 027 032 
+
+[027] JAM Jamaica            North America      1,962     2,583,000 75.2 -01 -01 
+
+[028] CUB Cuba               North America      1,902    11,201,000 76.2 029 -01 
+
+[029] AUT Austria            Europe             1,918     8,091,800 77.7 -01 030 
+
+[030] XXX                                          -1            -1 -1.0 -01 031 
+
+[031] BWA Botswana           Africa             1,966     1,622,000 39.3 -01 033 
+
+[032] GBR United Kingdom     Europe             1,066    59,623,400 77.7 034 035 
+
+[033] CAN Canada             North America      1,867    31,147,000 79.4 -01 -01 
+
+[034] KAZ Kazakstan          Asia               1,991    16,223,000 63.2 -01 -01 
+
+[035] UMI United States Mino Oceania               -1            -1 -1.0 -01 -01 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CODE STATUS > CountryDataTable Finished
+FILE STATUS > RawData FILE opened
+CODE STATUS > Setup Started
+FILE STATUS > RawData FILE closed
+CODE STATUS > Setup Finished - 269 countries processed
+FILE STATUS > TransData FILE opened
+CODE STATUS > UserApp started
+SN United States Minor Outlying Islands
+   UMI United States Mino Oceania               -1            -1 -1.0
+       >> 6 nodes visited
+SN Afghanistan
+   AFG Afghanistan        Asia             652,090    22,720,000 45.9
+       >> 7 nodes visited
+SN United States
+   USA United States      North America  9,363,520   278,357,000 77.1
+       >> 8 nodes visited
+SN China
+   CHN China              Asia           9,572,900 1,277,558,000 71.4
+       >> 14 nodes visited
+SN Vatican
+   SORRY, invalid country name
+       >> 10 nodes visited
+SN Monaco
+   MCO Monaco             Europe                 1        34,000 78.8
+       >> 34 nodes visited
+SN French Southern territories
+   ATF French Southern te Antarctica         7,780            -1 -1.0
+       >> 9 nodes visited
+CODE STATUS > UserApp finished – 7 transactions processed
+FILE STATUS > TransData FILE closed
+CODE STATUS > CountryDataTable Finished
+FILE STATUS > TheLog FILE closed
